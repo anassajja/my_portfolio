@@ -24,7 +24,7 @@ function About() {
                         <p style={{ color: theme.tertiary }}>{aboutData.description1}<br /><br />{aboutData.description2}</p>
                     </div>
                     <div className={styles.aboutAnimation}>
-                        <Animation animationPath={codings} />
+                        <AnimationLottie animationPath={codings} />
                     </div>
                 </div>
             </Container>
