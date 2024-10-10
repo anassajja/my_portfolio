@@ -11,76 +11,58 @@ import two from '../assets/svg/projects/two.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ayla Networks',
-        projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
-        tags: ['React', 'SAAS', 'React Bootstrap'],
-        code: '',
-        demo: 'https://www.aylanetworks.com/',
+        projectName: 'Evote',
+        projectDesc: 'This project about Simplifying the Development of Electronic Voting Plateform.',
+        tags: ['React', 'SAAS', 'React Bootstrap', 'Mern Stack', 'Docker', 'Kubernetes'],
+        code: 'https://github.com/Noris69/devops_votingapp_2',
+        demo: '#',
         image: six
     },
     {
         id: 2,
-        projectName: 'Jewelry Niche',
-        projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
-        tags: ['React', 'Express', 'Material Ui'],
-        code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://pandora-web.netlify.app/',
+        projectName: 'Ydoc',
+        projectDesc: 'This project is a doctor reservation platform that assists patients in finding and booking appointments with healthcare providers, offering an easy-to-use interface for accessing medical services across various specialties.',
+        tags: ['React', 'Tailwindcss', 'Material Ui', 'Laravel', 'Mysql'],
+        code: 'https://github.com/anassajja/YnoDoc',
+        demo: 'https://ynodoc-production.up.railway.app/',
         image: seven
     },
     {
         id: 3,
-        projectName: 'Travel Agency',
-        projectDesc: 'This project about travel agency management.',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
-        demo: 'https://travel-agency-fc58b.web.app/',
+        projectName: 'Vendito',
+        projectDesc: 'This project is an online marketplace platform that helps users buy and sell a wide range of products and services, offering an easy-to-use interface for posting ads and connecting with potential buyers or sellers.',
+        tags: ['Next JS', 'Laravel', 'Material Ui', 'Tailwindcss', 'Mysql', 'Firebase'],
+        code: 'https://github.com/anassajja/Vendito',
+        demo: 'https://vendito2.vercel.app/',
         image: eight
     },
     {
         id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-        tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Hangman Web App',
+        projectDesc: 'This project is an online Hangman game where players guess letters to uncover a hidden word, challenging their vocabulary and puzzle-solving skills in a fun, interactive way.',
+        tags: ['Golang', 'React', 'Tailwindcss', 'Material Ui', 'Mysql'],
+        code: 'https://github.com/anassajja/HangmanWeb',
+        demo: 'https://hangmanweb.onrender.com/',
         image: four
     },
     {
         id: 5,
-        projectName: 'E-Commerce App',
-        projectDesc: 'A Simple E-commerce application',
-        tags: ['React Native', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'E-Commerce SBA Electric Bikes Web App',
+        projectDesc: 'A E-commerce application for SBA Electric Bikes',
+        tags: ['Wordpress', 'Woocommerce', 'Elementor', 'Mysql'],
+        code: '#',
+        demo: '#',
         image: five
     },
-    {
+   {
         id: 6,
-        projectName: 'Uber Lite',
-        projectDesc: 'Uber clone',
-        tags: ['Flutter'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Lapelota Web App',
+        projectDesc: 'This project is a football event management platform that helps users organize and participate in matches, offering an easy-to-use interface for creating teams, scheduling games, and tracking scores.',
+        tags: ['React', 'Tailwindcss', 'Material Ui', 'Gin Golang Framework', 'Cassandra', 'Firebase', 'Docker', 'Kubernetes', 'Microservices','AWS'],
+        code: '#',
+        demo: '#',
         image: one
-    },
-    {
-        id: 7,
-        projectName: 'Stock Market App',
-        projectDesc: 'A simple stock market API app',
-        tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: two
-    },
-    {
-        id: 8,
-        projectName: 'Car Pooling System',
-        projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
-        tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: three
-    },
+   }
 ]
 
 
