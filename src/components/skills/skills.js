@@ -30,7 +30,7 @@ function Skills() {
                         play={true}
                         direction="left"
                     >
-                        {skillsData.map((skill, id) => (
+                        {skillsData.map((skill, id) => (     // This is where the skills are being displayed
                             <div className={styles.skillBox} key={id} style={skillBoxStyle}>
                                 <Image src={skillsImage(skill)} alt={skill} />
                                 <h3 style={{ color: theme.tertiary }}>

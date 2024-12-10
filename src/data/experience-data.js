@@ -23,7 +23,7 @@ export const experienceData = [
     {
         id: 4,
         company: 'ATMOSTECH ENGINEERING AND SOLUTIONS Casablanca',
-        jobtitle: 'Software Developer Intern',
+        jobtitle: 'Web Developer Intern',
         startYear: 'Jun 2023',
         endYear: 'Sep 2023'
     },
@@ -38,13 +38,13 @@ export const experienceData = [
         id: 6,
         company: 'Cyberground S.A.R.L Casablanca',
         jobtitle: 'Junior Full Stack Developer',
-        startYear: 'Mars 2024',
-        endYear: ' Present'
+        startYear: 'Jully 2024',
+        endYear: 'Oct 2024'
     },
     {
         id: 7,
         company: 'SBA Electric Bikes Casablanca',
-        jobtitle: 'Software Developer Intern',
+        jobtitle: 'Web Developer Intern',
         startYear: 'Oct 2024',
         endYear: 'Present'
     }

@@ -58,6 +58,7 @@ import vue from '../assets/svg/skills/vue.svg'
 import vuetifyjs from '../assets/svg/skills/vuetifyjs.svg'
 import webix from '../assets/svg/skills/webix.svg'
 import wordpress from '../assets/svg/skills/wordpress.svg'
+import android_studio from '../assets/svg/skills/android_studio.svg'
 
 import azure from '../assets/svg/skills/azure.svg'
 import blender from '../assets/svg/skills/blender.svg'
@@ -227,6 +228,8 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+        case 'android studio':
+            return android_studio;
         default:
             break;
     }

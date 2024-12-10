@@ -2,35 +2,35 @@ export const educationData = [
     {
         id: 1,
         institution: 'High School Moustakbali',
-        course: 'High School Diploma',
-        startYear: '2017',
+        course: 'High School Baccalaureate in Physical Sciences',
+        startYear: '2018',
         endYear: '2019'
     },
     {
         id: 2,
         institution: 'Technial High School Mohammed VI BTS Center',
-        course: 'DTS in Computer Science, Graphic Design and Networks',
+        course: 'First Year of Technician in Multimedia and Conception Web',
         startYear: '2019',
-        endYear: '2021'
+        endYear: '2020'
     },
     {
         id: 3,
         institution: 'University Mohammed VI Polytechnic Benguerir',
-        course: 'Bachelor Degree in Industry 4.0',
-        startYear: '2021',
-        endYear: '2024'
+        course: 'Associate Degree in Industry 4.0',
+        startYear: '2020',
+        endYear: '2022'
     },
     {
         id: 4,
         institution: 'Maroc Ynov Campus Casablanca',
-        course: 'Master Degree in Software Engineering',
+        course: 'Associate Degree in Computer Science',
         startYear: '2022',
-        endYear: '2027'
+        endYear: '2024'
     },
     {
         id: 5,
         institution: 'Superior School of Technology Casablanca - University Hassan II',
-        course: 'Executive Bachelor in Software Development',
+        course: 'Bachelor in Web & Mobile Development',
         startYear: '2024',
         endYear: '2025'
     }
